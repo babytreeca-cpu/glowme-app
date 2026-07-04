@@ -1,0 +1,6 @@
+{
+  "name": "GlowMe",
+  "description": "Aplicación móvil para adolescentes diseñada para fortalecer la autoestima mediante gamificación, inteligencia artificial, bienestar emocional y modo espejo inteligente.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
